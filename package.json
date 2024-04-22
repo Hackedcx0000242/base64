@@ -12,7 +12,6 @@
     "body-parser": "^1.20.2",
     "canvas": "^2.11.2",
     "cors": "^2.8.5",
-    "expres": "^0.0.5",
     "express": "^4.19.2",
     "nodemon": "^3.1.0"
   },
